@@ -1,0 +1,10 @@
+.more{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.divider span {
+    font-size: 19px;
+    font-weight: 600;
+}
